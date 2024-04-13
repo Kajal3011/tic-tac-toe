@@ -1,7 +1,5 @@
 # TicTacToe Game!
 
-![tic-tac-toe-game](https://user-images.githubusercontent.com/76853663/217308790-efd9586a-1ed0-4271-9fbb-423ec033afad.gif)
-
 ## Install
 
 Install dependencies:
